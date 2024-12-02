@@ -1,0 +1,11 @@
+Before that clear the previous version of burp
+
+1.First install jre(21) and java(8)
+
+2. install manually the jar file of burp pro
+
+3. run Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process this cmd in powershell as admin
+
+4. run burp.ps1
+
+5.finally edit the bat script last line of noverify -jar "E:\Burp\burpsuite_pro_v2024.11.1.jar".
